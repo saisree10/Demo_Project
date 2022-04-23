@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17107" started-at="2022-04-23T16:05:18Z" finished-at="2022-04-23T16:05:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17107" started-at="2022-04-23T16:05:18Z" finished-at="2022-04-23T16:05:35Z">
+      <class name="DemoApp.com.demo.app.Test_GetForeignExchangeRateAPI">
+        <test-method status="PASS" signature="testForConversionrateValuesOf_INR_BaseCode_Negative()[pri:0, instance:DemoApp.com.demo.app.Test_GetForeignExchangeRateAPI@2f7c7260]" name="testForConversionrateValuesOf_INR_BaseCode_Negative" duration-ms="6924" started-at="2022-04-23T21:35:18Z" finished-at="2022-04-23T21:35:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForConversionrateValuesOf_INR_BaseCode_Negative -->
+        <test-method status="PASS" signature="testForConversionrateValuesOf_INR_BaseCode_Neutral()[pri:0, instance:DemoApp.com.demo.app.Test_GetForeignExchangeRateAPI@2f7c7260]" name="testForConversionrateValuesOf_INR_BaseCode_Neutral" duration-ms="1508" started-at="2022-04-23T21:35:25Z" finished-at="2022-04-23T21:35:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForConversionrateValuesOf_INR_BaseCode_Neutral -->
+        <test-method status="PASS" signature="testForConversionrateValuesOf_INR_BaseCode_Positive()[pri:0, instance:DemoApp.com.demo.app.Test_GetForeignExchangeRateAPI@2f7c7260]" name="testForConversionrateValuesOf_INR_BaseCode_Positive" duration-ms="2961" started-at="2022-04-23T21:35:27Z" finished-at="2022-04-23T21:35:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForConversionrateValuesOf_INR_BaseCode_Positive -->
+        <test-method status="PASS" signature="testForConversionrateValuesOf_USD_BaseCode_Negative()[pri:0, instance:DemoApp.com.demo.app.Test_GetForeignExchangeRateAPI@2f7c7260]" name="testForConversionrateValuesOf_USD_BaseCode_Negative" duration-ms="546" started-at="2022-04-23T21:35:30Z" finished-at="2022-04-23T21:35:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForConversionrateValuesOf_USD_BaseCode_Negative -->
+        <test-method status="PASS" signature="testForConversionrateValuesOf_USD_BaseCode_Positive()[pri:0, instance:DemoApp.com.demo.app.Test_GetForeignExchangeRateAPI@2f7c7260]" name="testForConversionrateValuesOf_USD_BaseCode_Positive" duration-ms="1975" started-at="2022-04-23T21:35:30Z" finished-at="2022-04-23T21:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForConversionrateValuesOf_USD_BaseCode_Positive -->
+        <test-method status="PASS" signature="testForExchangerateAPI_DummyAuth_Negative()[pri:0, instance:DemoApp.com.demo.app.Test_GetForeignExchangeRateAPI@2f7c7260]" name="testForExchangerateAPI_DummyAuth_Negative" duration-ms="1143" started-at="2022-04-23T21:35:32Z" finished-at="2022-04-23T21:35:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForExchangerateAPI_DummyAuth_Negative -->
+        <test-method status="PASS" signature="testForExchangerateAPI_DummyURL_Negative()[pri:0, instance:DemoApp.com.demo.app.Test_GetForeignExchangeRateAPI@2f7c7260]" name="testForExchangerateAPI_DummyURL_Negative" duration-ms="1382" started-at="2022-04-23T21:35:33Z" finished-at="2022-04-23T21:35:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForExchangerateAPI_DummyURL_Negative -->
+        <test-method status="PASS" signature="testgetDataOfExchangeRateAPI()[pri:0, instance:DemoApp.com.demo.app.Test_GetForeignExchangeRateAPI@2f7c7260]" name="testgetDataOfExchangeRateAPI" duration-ms="602" started-at="2022-04-23T21:35:35Z" finished-at="2022-04-23T21:35:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetDataOfExchangeRateAPI -->
+      </class> <!-- DemoApp.com.demo.app.Test_GetForeignExchangeRateAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
